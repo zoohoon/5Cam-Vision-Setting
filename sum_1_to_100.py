@@ -1,2 +1,2 @@
-result = sum(range(1, 101))
+result = sum(range(1, 51))
 print(result)
